@@ -1,0 +1,33 @@
+#nav {
+  background-color: #AEDCFE;
+  opacity: .8;
+  z-index: 1;
+}
+
+.sub:hover {
+  background-color: #7B6D8D;
+}
+
+#background {
+  position: relative;
+  margin-top: -66px;
+}
+
+.BgTitle {
+  margin-top: -120%;
+  font-size: 1.8em;
+}
+
+#BgButton {
+  position: relative;
+  margin-top: 8%;
+}
+
+#hero {
+  margin-top: -80%;
+}
+
+.kh {
+  display: none;
+}
+/*# sourceMappingURL=style.css.map */

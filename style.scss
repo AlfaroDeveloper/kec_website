@@ -1,0 +1,43 @@
+
+
+// COLOR SCHEME
+$main-color: #127475;
+$secondDaiy-color: #7B6D8D;
+$tertiary-color: #BFD7B5;
+$quaternary-color: #AEDCFE;
+
+#nav{
+    background-color: $quaternary-color;
+    opacity: .8;
+    z-index: 1;
+}
+
+.sub:hover{
+    background-color: $secondDaiy-color;
+}
+
+#background{
+    position: relative;
+    margin-top: -66px;
+}
+
+.BgTitle{
+    margin-top: -120%;
+    font-size: 1.8em;
+}
+#BgButton{
+    position: relative;
+    margin-top: 8%;
+}
+#hero{
+    margin-top: -80%;
+}
+
+// language
+.kh{
+    display: none;
+}
+
+@media screen and (min-width: 900px){
+
+}
