@@ -76,3 +76,17 @@ $quaternary-color: #AEDCFE;
          width: 1450px;
       }
 }
+
+
+.logo{
+  overflow: hidden;
+  border-radius: 15%;
+  width: 100%;
+}
+
+.bg{
+    height: 25vh;
+    width: 100%;
+    border: 5px black;
+    border-radius: 40%;
+}
