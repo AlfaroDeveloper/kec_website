@@ -7,6 +7,9 @@ $secondDaiy-color: #7B6D8D;
 $tertiary-color: #BFD7B5;
 $quaternary-color: #AEDCFE;
 
+html{
+    scroll-behavior: smooth;
+}
 #nav{
     background-color: $quaternary-color;
     opacity: .8;
