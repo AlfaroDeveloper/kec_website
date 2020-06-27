@@ -1,3 +1,4 @@
+@import url("https://fonts.googleapis.com/css2?family=Righteous&display=swap");
 #nav {
   background-color: #AEDCFE;
   opacity: .8;
@@ -83,5 +84,14 @@
   width: 100%;
   border: 5px black;
   border-radius: 40%;
+}
+
+.f {
+  text-decoration: none;
+  font-family: 'Righteous', cursive;
+}
+
+a:hover {
+  text-decoration: none;
 }
 /*# sourceMappingURL=style.css.map */
